@@ -1,2 +1,2 @@
 # Exercicios-Assembly
-Resolução de exercícios em Assembly!
+Resolução de exercícios e exemplos em Assembly!
